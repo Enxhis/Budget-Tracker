@@ -45,7 +45,7 @@
  ## Image
  
  ## Links
-  * GitHub repository link:
+  * GitHub repository link: https://github.com/Enxhis/Budget-Tracker
   * Heroku deployed link:   https://serene-inlet-40069.herokuapp.com/
  
  ## Contribution
