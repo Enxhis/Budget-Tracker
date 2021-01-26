@@ -1,6 +1,9 @@
 # Budget-Tracker
 
 ## Description 
+ * Added functionality to an existing Budget Tracker application to allow for offline access and functionality.
+ * The user will be able to add expenses and deposits to their budget with or without a connection.
+ * When entering transactions offline, they can populate the total when brought back online.
 
 ## Table of Content
  1. [Usage](#usage)
@@ -11,6 +14,42 @@
  6. [Contribution](#contribution)
  7. [Licence](#licence)
  8. [Questions](#questions)
+ 
+ ## Usage
+  * AS AN avid traveller
+  I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+  SO THAT my account balance is accurate when I am traveling
+ 
+ ## Technology
+  This application was built with:
+  * JavaScript
+  * Node.js
+  * npm packages
+  * Express
+  * Mongoose 
+  * Mongodb
+  * HTML
+  * CSS
+  * Chart.js
+  * Service Worker
+  * Cache APIs
+  * Webpack
+  * Heroku
+ 
+ ## Installation
+  * Make sure you have Node.js and mongodb installed in your machine
+  * Run: ```npm install``` in order to install all dependencies 
+  * Run : ```node server.js``` and the application will start 
+  * Navigate to the localhost port: http://localhost:3000 in the browser.
+ 
+ ## Image
+ 
+ ## Links
+  * GitHub repository link:
+  * Heroku deployed link:   https://serene-inlet-40069.herokuapp.com/
+ 
+ ## Contribution
+  * Enxhi Salaj and code provided from Trilogy
  
  ## Licence
    ![License badge](https://img.shields.io/badge/license-MIT-green)
