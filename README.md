@@ -43,7 +43,7 @@
   * Navigate to the localhost port: http://localhost:3000 in the browser.
  
  ## Image
- 
+   ![Budget-Tracker-App](/public/Assets/Budget-Tracker-Screenshot.png)
  ## Links
   * GitHub repository link: https://github.com/Enxhis/Budget-Tracker
   * Heroku deployed link:   https://serene-inlet-40069.herokuapp.com/
