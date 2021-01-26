@@ -1,5 +1,5 @@
 let db;
-// create a request for 'budget' db
+// create a new request for 'budget' db
 const request = indexedDB.open('budget', 1);
 
 // creates object store called "pending" and set autoIncrement to true
