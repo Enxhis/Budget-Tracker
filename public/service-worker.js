@@ -1,5 +1,7 @@
-// Files that need to be cached
+const CACHE_NAME = "static-cache-v2";
+const DATA_CACHE_NAME = "data-cache-v1";
 
+// Files that need to be cached
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
@@ -11,8 +13,6 @@ const FILES_TO_CACHE = [
     "/icons/icon-512x512.png"
 ];
 
-const CACHE_NAME = "static-cache-v2";
-const DATA_CACHE_NAME = "data-cache-v1";
 
 // install and register the service worker
 self.addEventListener("install", function (evt) {
